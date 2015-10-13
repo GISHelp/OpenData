@@ -1,6 +1,7 @@
-fieldName	fieldDescription
-FID	Unique identifier.
-FEATURE_KEY	
+fieldName|	fieldDescription
+--- | --- 
+FID	| Unique identifier.
+FEATURE_KEY	| 
 L_STREET_ID	
 R_STREET_ID	
 L_DUP_STREET_ID	
